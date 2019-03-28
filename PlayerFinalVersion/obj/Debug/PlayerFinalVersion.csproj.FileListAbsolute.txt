@@ -1,0 +1,15 @@
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\PlayerFinalVersion.exe.config
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\PlayerFinalVersion.exe
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\PlayerFinalVersion.pdb
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\NAudio.dll
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\NVorbis.dll
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\taglib-sharp.dll
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\NAudio.xml
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\NVorbis.xml
+D:\Prog\Projects\Player\PlayerFinalVersion\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Prog\Projects\Player\PlayerFinalVersion\obj\Debug\PlayerFinalVersion.csproj.CoreCompileInputs.cache
+D:\Prog\Projects\Player\PlayerFinalVersion\obj\Debug\PlayerFinalVersion.csproj.CopyComplete
+D:\Prog\Projects\Player\PlayerFinalVersion\obj\Debug\PlayerFinalVersion.exe
+D:\Prog\Projects\Player\PlayerFinalVersion\obj\Debug\PlayerFinalVersion.pdb
+D:\Prog\Projects\Player\PlayerFinalVersion\obj\Debug\PlayerFinalVersion.csprojAssemblyReference.cache
