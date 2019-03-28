@@ -1,4 +1,4 @@
 # Player
 Project uses: 
 * [NAudio](https://github.com/naudio/NAudio) as Audio library
-* [taglib](https://github.com/taglib/taglib) as Audio Metadata Library 
+* [TagLib#](https://github.com/mono/taglib-sharp) as Audio Metadata Library
